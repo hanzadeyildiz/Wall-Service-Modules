@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Platforms>AnyCPU;x64</Platforms>
+    <UseWindowsForms>False</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommandLineParser" Version="2.9.1" />
+    <PackageReference Include="LibVLCSharp" Version="3.7.0" />
+    <PackageReference Include="LibVLCSharp.WPF" Version="3.7.0" />
+    <PackageReference Include="VideoLAN.LibVLC.Windows" Version="3.0.18" />
+  </ItemGroup>
+
+</Project>

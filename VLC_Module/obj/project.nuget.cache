@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9Fjzniy+5i0ORRwbzKDkuFIN6S3XBfrUIApERI0pNGRrf2w0thBj/1+zu3Tt6WSf14EuaFL7bmp1FYZATDhow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BurakSIMSEK\\source\\repos\\WallService Modules\\VLC_Module\\VLC_Module.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\libvlcsharp\\3.7.0\\libvlcsharp.3.7.0.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\libvlcsharp.wpf\\3.7.0\\libvlcsharp.wpf.3.7.0.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\videolan.libvlc.windows\\3.0.18\\videolan.libvlc.windows.3.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

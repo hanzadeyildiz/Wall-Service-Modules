@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CommandLineParser/2.9.1": {
+        "runtime": {
+          "lib/netstandard2.0/CommandLine.dll": {
+            "assemblyVersion": "2.9.1.0",
+            "fileVersion": "2.9.1.0"
+          }
+        }
+      },
+      "LibVLCSharp/3.7.0": {
+        "runtime": {
+          "lib/netstandard2.1/LibVLCSharp.dll": {
+            "assemblyVersion": "3.7.0.0",
+            "fileVersion": "3.7.0.0"
+          }
+        }
+      },
+      "LibVLCSharp.WPF/3.7.0": {
+        "dependencies": {
+          "LibVLCSharp": "3.7.0"
+        },
+        "runtime": {
+          "lib/net461/LibVLCSharp.WPF.dll": {
+            "assemblyVersion": "3.7.0.0",
+            "fileVersion": "3.7.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommandLineParser/2.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OE0sl1/sQ37bjVsPKKtwQlWDgqaxWgtme3xZz7JssWUzg5JpMIyHgCTY9MVMxOg48fJ1AgGT3tgdH5m/kQ5xhA==",
+      "path": "commandlineparser/2.9.1",
+      "hashPath": "commandlineparser.2.9.1.nupkg.sha512"
+    },
+    "LibVLCSharp/3.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N9NV+BamKr+1YiRktX9JroE4m9C+pEszUNW4qa3A5mychhCWBvvoDolZKWk2yxhZvHewgaXXahBcw5ivCXjKYA==",
+      "path": "libvlcsharp/3.7.0",
+      "hashPath": "libvlcsharp.3.7.0.nupkg.sha512"
+    },
+    "LibVLCSharp.WPF/3.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OQHaPjXFN+oq5ms5tnvRZ7LnP+yjd4MyvKpL6Wx0HMLt0AaIr50E6ew3vfsu+mwBkJn2nQTsxzdM20+Li1XJCw==",
+      "path": "libvlcsharp.wpf/3.7.0",
+      "hashPath": "libvlcsharp.wpf.3.7.0.nupkg.sha512"
+    }
+  }
+}
